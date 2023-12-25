@@ -1,0 +1,26 @@
+what is ur project is about - name , domain , purploes of project,problem statement
+challenges faced 
+technologies used - tools , tech , architecture  , platform used
+your role , learning,challenges faced and overcome ,contribution 
+
+
+My project is about Multi class segmentation and classification non melanoma skin cancer
+its about identifying and classifying the type of skin cancer. for four classes like bcc,scc,iec and healthy.
+
+Domain of project : Machine Learning and Deep Learning
+
+Objective of project : Skin Cancer is a major public health concern worldwide, so early detection and accurate diagnosis are crucial for successful treatment. 
+However, traditional methods for cancer detection and diagnosis, such as manual observation and interpretation of medical images, can be time-consuming, subjective, and prone to error.
+In an increasingly demanding environment for Pathologists, it is expected that deep learning methods can serve to improve the efficiency of pathologist workflows, such as in the case of diagnosing non-melanoma skin cancer.
+Deep learning and machine learning algorithms can accurately identify cancerous regions within medical images and classify them according to the type and severity of cancer. 
+This can aid clinicians in making more informed treatment decisions and improve patient outcomes.
+
+Platform used :  google colab
+
+Your Role :  I have build neural network(CNN) for classification as it classifies the skin cancer into four types like bcc, scc,iec and healthy and implemented machine learning classifiers 
+		like random forest and k-nearest neighbour and compared the results
+
+what i have learnt from this : 
+
+Challenges faced and how did you overcome : As our dataset is too small and unbalanced so we did Image Augmentation techinques to increase the size of datasets,
+
